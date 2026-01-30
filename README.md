@@ -1,2 +1,3 @@
 # DIP-Task--3-4
-Task 3&amp;4
+Task 3&4
+Develop a Python program using OpenCV, NumPy, and Matplotlib to perform image enhancement techniques on a given input image. The program should read and display the original color image, convert it to YCrCb color space, and apply histogram equalization on the luminance (Y) channel using the built-in OpenCV function. Additionally, implement histogram equalization manually using histogram and cumulative distribution function (CDF) computation, and display the equalized image along with its histogram. Further, apply contrast stretching to improve image contrast. Implement and demonstrate point transformation techniques including logarithmic transformation and gamma (power-law) transformation. Finally, display all processed images with appropriate titles for comparison.
